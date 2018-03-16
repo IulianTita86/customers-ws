@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Lenovo
+Build-Jdk: 9.0.4
+Implementation-Title: customer-ws
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: customer-ws
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/customer-ws
+Created-By: Maven Integration for Eclipse
+
